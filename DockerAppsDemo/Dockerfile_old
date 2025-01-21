@@ -1,0 +1,17 @@
+# Build Stage
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
+WORKDIR /source
+COPY . .
+RUN dotnet restore "DockerAppsDemo.csproj" --disable-parallel
+RUN dotnet publish "DockerAppsDemo.csproj" -c release -o /app --no-restore
+
+
+# Serve Stage
+FROM mcr.microsoft.com/dotnet/runtime:8.0
+WORKDIR /app
+COPY --from=build-env /app ./
+
+EXPOSE 5000
+
+ENTRYPOINT ["dotnet", "DockerAppsDemo.dll"]

@@ -1,0 +1,42 @@
+# Build Stage
+FROM myalpinedotnetsdk:8.0 AS build
+WORKDIR /source
+
+# List files in the current directory
+# Print the list of folders and files in the current directory
+RUN echo "Contents of current directory:"
+RUN ls -la
+
+# Copy the project files for dependent projects and restore dependencies
+COPY ../Common/Learning.Common/*.csproj ./Common/Learning.Common/
+COPY ../Common/Learning.Common.Api/*.csproj ./Common/Learning.Common.Api/
+RUN dotnet restore "Learning.Docker.Api.csproj" --disable-parallel
+
+# Copy the rest of the project files and build the application
+COPY . .
+RUN dotnet publish "Learning.Docker.Api.csproj" -c release -o /app --no-restore
+
+# Serve Stage
+FROM myalpinedotnetruntime:8.0 AS base
+WORKDIR /app
+
+# Copy the published application from the build stage
+COPY --from=build /app .
+
+# Install Datadog .NET Tracer
+# (You can uncomment and modify this section if you need to install Datadog .NET Tracer)
+
+# Update package repository and install jq
+RUN apk update && \
+    apk add --no-cache jq
+
+# Install curl
+RUN apk --no-cache add curl
+
+# Expose ports
+EXPOSE 8080
+EXPOSE 5002
+EXPOSE 5003
+
+# Start the application
+ENTRYPOINT ["dotnet", "Learning.Docker.Api.dll"]

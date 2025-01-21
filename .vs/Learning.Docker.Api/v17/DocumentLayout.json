@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FBCAA-8FED-4B79-BC39-E6F4CA058EB4}|Common\\Learning.Common\\Learning.Common.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\common\\learning.common\\bo_apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02FBCAA-8FED-4B79-BC39-E6F4CA058EB4}|Common\\Learning.Common\\Learning.Common.csproj|solutionrelative:common\\learning.common\\bo_apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\dockerfile_oldnew4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\dockerfile_oldnew4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\dockerfile_oldnew5||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\dockerfile_oldnew5||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\dockerfile_old||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\dockerfile_old||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\dockerfile_oldnew1||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\dockerfile_oldnew1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\learning.docker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\learning.docker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496F396-71D8-4DBA-8A58-ED9CC34ED84A}|Tests\\Learning.Api.Tests.Docker\\Learning.Api.Tests.Docker.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\tests\\learning.api.tests.docker\\startup\\baseconfigurationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496F396-71D8-4DBA-8A58-ED9CC34ED84A}|Tests\\Learning.Api.Tests.Docker\\Learning.Api.Tests.Docker.csproj|solutionrelative:tests\\learning.api.tests.docker\\startup\\baseconfigurationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A496F396-71D8-4DBA-8A58-ED9CC34ED84A}|Tests\\Learning.Api.Tests.Docker\\Learning.Api.Tests.Docker.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\tests\\learning.api.tests.docker\\controllers\\studentcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A496F396-71D8-4DBA-8A58-ED9CC34ED84A}|Tests\\Learning.Api.Tests.Docker\\Learning.Api.Tests.Docker.csproj|solutionrelative:tests\\learning.api.tests.docker\\controllers\\studentcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\controllers\\productsv3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\controllers\\productsv3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526895CA-FF36-420E-A0CA-75DBE467437E}|Common\\Learning.Common.Api\\Learning.Common.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\common\\learning.common.api\\learning.common.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{526895CA-FF36-420E-A0CA-75DBE467437E}|Common\\Learning.Common.Api\\Learning.Common.Api.csproj|solutionrelative:common\\learning.common.api\\learning.common.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\controllers\\productsv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\controllers\\productsv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\app\\learning.docker.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7747E2A-0D78-492D-835D-33441DB26345}|App\\Learning.Docker.Api\\Learning.Docker.Api.csproj|solutionrelative:app\\learning.docker.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02FBCAA-8FED-4B79-BC39-E6F4CA058EB4}|Common\\Learning.Common\\Learning.Common.csproj|d:\\my software and files\\my-project-and-learning\\myprojects\\dockerapps\\common\\learning.common\\learning.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B02FBCAA-8FED-4B79-BC39-E6F4CA058EB4}|Common\\Learning.Common\\Learning.Common.csproj|solutionrelative:common\\learning.common\\learning.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Learning.Docker.Api.csproj",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T04:44:03.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\readme.md",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\readme.md",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\readme.md",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-28T06:03:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile_oldNew1",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_oldNew1",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Dockerfile_oldNew1",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_oldNew1",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Dockerfile_oldNew1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T06:00:01.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile_old",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_old",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Dockerfile_old",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_old",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Dockerfile_old",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T05:59:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Dockerfile",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T05:34:47.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile_oldNew5",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_oldNew5",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Dockerfile_oldNew5",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_oldNew5",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Dockerfile_oldNew5",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T04:59:06.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile_oldNew4",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_oldNew4",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Dockerfile_oldNew4",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Dockerfile_oldNew4",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Dockerfile_oldNew4",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T04:58:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BO_APIResponse.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common\\BO_APIResponse.cs",
+              "RelativeDocumentMoniker": "Common\\Learning.Common\\BO_APIResponse.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common\\BO_APIResponse.cs",
+              "RelativeToolTip": "Common\\Learning.Common\\BO_APIResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:26:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseConfigurationTest.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Tests\\Learning.Api.Tests.Docker\\Startup\\BaseConfigurationTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Learning.Api.Tests.Docker\\Startup\\BaseConfigurationTest.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Tests\\Learning.Api.Tests.Docker\\Startup\\BaseConfigurationTest.cs",
+              "RelativeToolTip": "Tests\\Learning.Api.Tests.Docker\\Startup\\BaseConfigurationTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:16:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentControllerTest.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Tests\\Learning.Api.Tests.Docker\\Controllers\\StudentControllerTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Learning.Api.Tests.Docker\\Controllers\\StudentControllerTest.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Tests\\Learning.Api.Tests.Docker\\Controllers\\StudentControllerTest.cs",
+              "RelativeToolTip": "Tests\\Learning.Api.Tests.Docker\\Controllers\\StudentControllerTest.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:12:08.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:11:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsV3Controller.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\ProductsV3Controller.cs",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Controllers\\ProductsV3Controller.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\ProductsV3Controller.cs",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Controllers\\ProductsV3Controller.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:10:42.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsV2Controller.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\ProductsV2Controller.cs",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Controllers\\ProductsV2Controller.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\ProductsV2Controller.cs",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Controllers\\ProductsV2Controller.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:10:16.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAEwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:06:35.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Learning.Common.Api.csproj",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common.Api\\Learning.Common.Api.csproj",
+              "RelativeDocumentMoniker": "Common\\Learning.Common.Api\\Learning.Common.Api.csproj",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common.Api\\Learning.Common.Api.csproj",
+              "RelativeToolTip": "Common\\Learning.Common.Api\\Learning.Common.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T04:02:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "App\\Learning.Docker.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:09:53.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Learning.Common.csproj",
+              "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common\\Learning.Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Learning.Common\\Learning.Common.csproj",
+              "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common\\Learning.Common.csproj",
+              "RelativeToolTip": "Common\\Learning.Common\\Learning.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T04:02:38.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

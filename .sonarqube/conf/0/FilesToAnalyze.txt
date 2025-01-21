@@ -1,0 +1,3 @@
+﻿D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common\BO_APIErrorResponse.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common\BO_APIResponse.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common\Validations\CustomerValidationMessage.cs

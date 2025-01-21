@@ -1,0 +1,16 @@
+﻿# Build Stage
+FROM mydotnetsdk:8.0 AS build-env
+WORKDIR /source
+COPY . .
+RUN dotnet restore "Docker.Api.csproj" --disable-parallel
+RUN dotnet publish "Docker.Api.csproj" -c release -o /app --no-restore
+
+# Serve Stage
+FROM mydotnetruntime:8.0
+WORKDIR /app
+COPY --from=build-env /app .
+
+EXPOSE 8080
+ENV ASPNETCORE_URLS=http://+:8080
+
+ENTRYPOINT ["dotnet", "Docker.Api.dll"]

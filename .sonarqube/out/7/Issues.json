@@ -1,0 +1,172 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.9.0.0",
+        "fileVersion": "4.9.0-3.24081.11 (98911739)",
+        "semanticVersion": "4.9.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field 'contextAccessor' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/Tests/Learning.Api.Tests.Docker/Startup/BaseConfigurationTest.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 46,
+                  "endLine": 10,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/Tests/Learning.Api.Tests.Docker/Startup/BaseConfigurationTest.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 46,
+                  "endLine": 10,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field 'logger' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/Tests/Learning.Api.Tests.Docker/Startup/BaseConfigurationTest.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 33,
+                  "endLine": 11,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/Tests/Learning.Api.Tests.Docker/Startup/BaseConfigurationTest.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 33,
+                  "endLine": 11,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field 'studentController' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/Tests/Learning.Api.Tests.Docker/Controllers/StudentControllerTest.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 35,
+                  "endLine": 13,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/Tests/Learning.Api.Tests.Docker/Controllers/StudentControllerTest.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 35,
+                  "endLine": 13,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2187",
+          "level": "warning",
+          "message": "Add some tests to this class.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/Tests/Learning.Api.Tests.Docker/Startup/BaseConfigurationTest.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18,
+                  "endLine": 8,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S2187": {
+          "id": "S2187",
+          "shortDescription": "Test classes should contain at least one test case",
+          "fullDescription": "To ensure proper testing, it is important to include test cases in a test class. If a test class does not have any test cases, it can give the wrong impression that the class being tested has been thoroughly tested, when in reality, it has not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2187",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

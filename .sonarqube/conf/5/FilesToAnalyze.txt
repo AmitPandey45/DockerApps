@@ -1,0 +1,7 @@
+﻿D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common.Api\BaseController.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common.Api\Extensions\CommonServiceCollectionExtensions.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common.Api\ResponseMethod.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common.Api\obj\Debug\net8.0\Learning.Common.Api.GlobalUsings.g.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common.Api\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common.Api\obj\Debug\net8.0\Learning.Common.Api.AssemblyInfo.cs
+D:\MY SOFTWARE AND FILES\MY-PROJECT-AND-LEARNING\MyProjects\DockerApps\Common\Learning.Common.Api\Properties\launchSettings.json

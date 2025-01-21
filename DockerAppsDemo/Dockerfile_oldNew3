@@ -1,0 +1,30 @@
+# Build Stage
+FROM myalpinedotnetsdk:8.0 AS build
+WORKDIR /source
+
+# Copy the project files and restore dependencies
+COPY . .
+RUN dotnet restore "DockerAppsDemo.csproj" --disable-parallel
+
+# Build the application
+RUN dotnet publish "DockerAppsDemo.csproj" -c release -o /app --no-restore
+
+# Serve Stage
+FROM myalpinedotnetruntime:8.0 AS base
+WORKDIR /app
+
+# Copy the published application from the build stage
+COPY --from=build /app .
+
+# Install Datadog .NET Tracer
+RUN apk add --no-cache ca-certificates wget \
+    && wget "https://github.com/DataDog/dd-trace-dotnet/releases/download/v2.35.0/datadog-dotnet-apm-2.35.0-x64.msi" -O datadog-apm.msi \
+    && apk add --no-cache wine \
+    && wine msiexec /i datadog-apm.msi /quiet
+
+# Expose ports
+EXPOSE 8080
+EXPOSE 5002
+
+# Start the application
+ENTRYPOINT ["dotnet", "DockerAppsDemo.dll"]

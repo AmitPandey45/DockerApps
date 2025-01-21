@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxDAFFH5U40=",
+  "success": true,
+  "projectFilePath": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common\\Learning.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amit.p\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\amit.p\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\amit.p\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\amit.p\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\amit.p\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\amit.p\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

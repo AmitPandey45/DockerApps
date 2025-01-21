@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "sQoq4BMt/VxOsDzQawBbIn1a85eU+aN9qC9xWgL094Q=",
+  "Source": "Learning.Docker.Api",
+  "BasePath": "_content/Learning.Docker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\Common\\Learning.Common.Api\\Learning.Common.Api.csproj",
+      "Version": 2,
+      "Source": "Learning.Common.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

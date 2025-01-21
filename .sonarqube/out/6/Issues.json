@@ -1,0 +1,982 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.9.0.0",
+        "fileVersion": "4.9.0-3.24081.11 (98911739)",
+        "semanticVersion": "4.9.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsController.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 46,
+                  "endLine": 36,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV3Controller.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 46,
+                  "endLine": 35,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsController'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsController.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsController.ProductsController(IHttpContextAccessor)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsController.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 16,
+                  "endLine": 19,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsController.Get()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsController.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 30,
+                  "endLine": 26,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsController.Get(int)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsController.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 30,
+                  "endLine": 34,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV2Controller'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV2Controller.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV2Controller.ProductsV2Controller(IHttpContextAccessor)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV2Controller.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 16,
+                  "endLine": 12,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV2Controller.GetV1()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV2Controller.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 30,
+                  "endLine": 20,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV2Controller.GetV2()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV2Controller.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 30,
+                  "endLine": 28,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV3Controller'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV3Controller.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV3Controller.ProductsV3Controller(IHttpContextAccessor)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV3Controller.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 16,
+                  "endLine": 18,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV3Controller.Get()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV3Controller.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 30,
+                  "endLine": 25,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'ProductsV3Controller.Get(int)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/ProductsV3Controller.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 30,
+                  "endLine": 33,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'StudentController'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/StudentController.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'StudentController.StudentController(IHttpContextAccessor)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/StudentController.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 16,
+                  "endLine": 23,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'StudentController.GetStudents()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/StudentController.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 30,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'StudentController.GetStudent(int)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/StudentController.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 30,
+                  "endLine": 40,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'Startup'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 25,
+                  "endLine": 9,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'Startup.StartApp(string[])'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 75,
+                  "endLine": 11,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'Startup.ConfigureServices(WebApplicationBuilder, string[])'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 42,
+                  "endLine": 20,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'Startup.ConfigureMiddleware(WebApplicationBuilder, string[])'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 38,
+                  "endLine": 44,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecastController'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18,
+                  "endLine": 8,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecastController.WeatherForecastController(ILogger<WeatherForecastController>, IHttpContextAccessor)'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 16,
+                  "endLine": 17,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecastController.Get()'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 45,
+                  "endLine": 24,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecast'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/WeatherForecast.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 18,
+                  "endLine": 3,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecast.Date'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/WeatherForecast.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 25,
+                  "endLine": 5,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecast.TemperatureC'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/WeatherForecast.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 20,
+                  "endLine": 7,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecast.TemperatureF'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/WeatherForecast.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 20,
+                  "endLine": 9,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS1591",
+          "level": "warning",
+          "message": "Missing XML comment for publicly visible type or member 'WeatherForecast.Summary'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/WeatherForecast.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 24,
+                  "endLine": 11,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 13,
+                  "endLine": 81,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 13,
+                  "endLine": 90,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 13,
+                  "endLine": 107,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 61,
+                  "endLine": 15,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'students' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/StudentController.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 41,
+                  "endLine": 12,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'builder'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Program.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 24,
+                  "endLine": 3,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'services'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 32,
+                  "endLine": 14,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'data'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Controllers/StudentController.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 17,
+                  "endLine": 33,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3267",
+          "level": "warning",
+          "message": "Loop should be simplified by calling Select(description => description.GroupName))",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 45,
+                  "endLine": 99,
+                  "endColumn": 133
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0014",
+          "level": "warning",
+          "message": "Suggest using top level route registrations instead of UseEndpoints",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/MY%20SOFTWARE%20AND%20FILES/MY-PROJECT-AND-LEARNING/MyProjects/DockerApps/App/Learning.Docker.Api/Startup/Startup.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 61,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "ASP0014": {
+          "id": "ASP0014",
+          "shortDescription": "Suggest using top level route registrations",
+          "defaultLevel": "warning",
+          "helpUri": "https://aka.ms/aspnet/analyzers",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true
+          }
+        },
+        "CS1591": {
+          "id": "CS1591",
+          "shortDescription": "Missing XML comment for publicly visible type or member",
+          "fullDescription": "The /doc compiler option was specified, but one or more constructs did not have comments.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1591)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Converting null literal or possible null value to non-nullable type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "An unused local variable is a variable that has been declared but is not used anywhere in the block of code where it is defined. It is dead code, contributing to unnecessary complexity and leading to confusion when reading the code. Therefore, it should be removed from your code to maintain clarity and efficiency.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that’s not marked readonly but is only set in the constructor, it could cause confusion about the field’s intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3267": {
+          "id": "S3267",
+          "shortDescription": "Loops should be simplified with \"LINQ\" expressions",
+          "fullDescription": "When a loop is filtering, selecting or aggregating, those functions can be handled with a clearer, more concise LINQ expression instead.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3267",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields which are written but never read are a case of \"dead store\". Changing the value of such a field is useless and most probably indicates an error in the code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

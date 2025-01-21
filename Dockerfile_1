@@ -1,0 +1,31 @@
+#See https://aka.ms/customizecontainer to learn how to customize your debug container and how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM myalpinedotnetruntime:8.0 AS base
+EXPOSE 8080
+EXPOSE 8081
+
+FROM myalpinedotnetsdk:8.0 AS build
+WORKDIR /src
+# copy csproj and restore as distinct layers
+COPY Learning.Docker.Api.sln .
+COPY App/Learning.Docker.Api/*.csproj ./App/Learning.Docker.Api/
+COPY Common/Learning.Common/*.csproj ./Common/Learning.Common/
+COPY Common/Learning.Common.Api/*.csproj ./Common/Learning.Common.Api/
+COPY Tests/Learning.Api.Tests.Docker/*.csproj ./Tests/Learning.Api.Tests.Docker/
+
+RUN echo "Displaying folder and files" && ls -la
+RUN dotnet restore
+
+# copy everything else and build app
+COPY App/Learning.Docker.Api/. ./App/Learning.Docker.Api/
+COPY Common/Learning.Common/. ./Common/Learning.Common/
+COPY Common/Learning.Common.Api/. ./Common/Learning.Common.Api/
+COPY Tests/Learning.Api.Tests.Docker/. ./Tests/Learning.Api.Tests.Docker/
+
+RUN dotnet publish -c Release -o out
+
+FROM base AS final
+WORKDIR /app
+# COPY --from=publish /app/publish .
+COPY --from=build /src/out .
+ENTRYPOINT ["dotnet", "Learning.Docker.Api.dll"]
