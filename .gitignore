@@ -344,3 +344,7 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+/Tests/Learning.Api.Tests.Docker/obj/Debug/net8.0/Learning.Api.Tests.Docker.AssemblyInfo.cs
+/Tests/Learning.Api.Tests.Docker/obj/Debug/net8.0/Learning.Api.Tests.Docker.AssemblyInfoInputs.cache
+/.vs/Learning/v17/.suo
+/.vs/Learning/v17/DocumentLayout.json
