@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,6 +41,10 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsV2Controller.cs",
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Controllers\\ProductsV2Controller.cs",
               "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Controllers\\ProductsV2Controller.cs",
               "RelativeToolTip": "App\\Learning.Docker.Api\\Controllers\\ProductsV2Controller.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAmwAYAAAAwAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T04:27:57.828Z",
               "EditorCaption": ""
@@ -63,21 +67,19 @@
               "RelativeToolTip": "App\\Learning.Docker.Api\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T04:26:25.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T04:26:25.422Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Learning.Docker.Api",
+              "Title": "Learning.Docker.Api.csproj",
               "DocumentMoniker": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
               "RelativeDocumentMoniker": "App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
               "ToolTip": "D:\\MY SOFTWARE AND FILES\\MY-PROJECT-AND-LEARNING\\MyProjects\\DockerApps\\App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
               "RelativeToolTip": "App\\Learning.Docker.Api\\Learning.Docker.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-07T03:43:03.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T03:43:03.908Z"
             }
           ]
         }
